@@ -1,6 +1,6 @@
 {
   "name": "todo-fixme-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to scan for TODO and FIXME comments in your project files.",
   "main": "index.js",
   "bin": {
