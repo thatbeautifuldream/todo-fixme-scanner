@@ -1,0 +1,17 @@
+{
+  "name": "todo-scanner",
+  "version": "1.0.0",
+  "description": "A CLI tool to scan for TODO and FIXME comments in your project files.",
+  "main": "index.js",
+  "bin": {
+    "todo-scanner": "./index.js"
+  },
+  "keywords": [
+    "todo",
+    "fixme",
+    "scanner",
+    "cli"
+  ],
+  "author": "Milind Mishra",
+  "license": "MIT"
+}
