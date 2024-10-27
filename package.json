@@ -13,5 +13,20 @@
     "cli"
   ],
   "author": "Milind Mishra",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatbeautifuldream/todo-fixme-scanner.git"
+  },
+  "homepage": "https://github.com/thatbeautifuldream/todo-fixme-scanner#readme",
+  "bugs": {
+    "url": "https://github.com/thatbeautifuldream/todo-fixme-scanner/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
